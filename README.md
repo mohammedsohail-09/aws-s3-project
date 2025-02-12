@@ -42,6 +42,12 @@ Now go to permissions and allow  Public Read Access
 
 And click on Checked box for granting the risk
 
+Now the file is uploaded.
+
+To see the file click on the file and go to properties and copy the object URL by this you can Access the file 
+
+"YOU CAN READ ONLY THE FILE"
+
 ![Image](https://github.com/user-attachments/assets/133322d8-5372-4303-a439-7a9634daba6a)
 
 ![Image](https://github.com/user-attachments/assets/f5c32275-e334-455c-adb2-9b416f9ea9ec)
